@@ -410,13 +410,15 @@ input[type=submit] {
     margin-bottom: 15px;
   }
 
-  .main-section {
-    margin: 20 10 40px;
-  }
-
   main {
     padding-top: 115px;
   }
+
+.main-section {
+    padding-top: 15px;
+    width: 95%;
+    margin: 0px 10px 40px;
+}
 
   h1 {
     font-size: 20px;
