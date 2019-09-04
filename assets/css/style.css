@@ -385,6 +385,21 @@ input[type=submit] {
 
 }
 
+@media screen and (max-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+
+  .main-section {
+    max-width: 720px;
+  }
+
+  .auth-image {
+    width: 50%;
+    padding-bottom: 20px;
+  }
+}
+
 @media screen and (max-width: 640px) {
   header {
     position: static;
