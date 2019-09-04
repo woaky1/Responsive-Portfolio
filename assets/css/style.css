@@ -415,7 +415,7 @@ input[type=submit] {
   }
 
 .main-section {
-    padding-top: 15px;
+    padding: 20px;
     width: 95%;
     margin: 0px 10px 40px;
 }
@@ -424,4 +424,21 @@ input[type=submit] {
     font-size: 20px;
     padding-bottom: 10px;
   }
+
+  .auth-image {
+    margin: 0px auto 10px;
+    width: 100%;
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 175%;
+  }
+
+  footer {
+    font-size: 10px;
+    height: 50px;
+    line-height: 75%;
+  }
+  
 }
