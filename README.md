@@ -15,6 +15,7 @@ This page offers a collection of projects I've worked on with links to those pro
 
 ## Responsive Design
 With both pages, the design of the change will alter depending on the size of the user's screen.
+
 **The Landing Page as seen on an iPhone 8**
 
 **The Portfolio Page as seen on an iPhone 8**
