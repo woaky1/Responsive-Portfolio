@@ -1,8 +1,10 @@
 # Responsive-Portfolio
 
-This is a portfolio of my work I initially created as an experiment in responsive css, but I now maintain it as a showcase for my projects.
+This is a portfolio of my work I created as an experiment in responsive css.
 
 https://woaky1.github.io/Responsive-Portfolio/
+
+**Note: I no longer update this portfolio. For my up-to-date portfolio, please visit https://woaky1.github.io/react-portfolio/.**
 
 ## Website Organization
 The website is made up of two pages.
@@ -28,4 +30,4 @@ With both pages, the design of the change will alter depending on the size of th
 The website only uses HTML and CSS.
 
 ## About Me
-I'm a full stack web developer. Thanks for taking the time to check out my portfolio.
+I'm a full stack web developer. Thanks for taking the time to check out this page.
